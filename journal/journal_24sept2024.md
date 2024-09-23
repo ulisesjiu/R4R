@@ -1,6 +1,6 @@
 Rose:
 It was really cool to get to know how to create a website without having to know html. 
-Naviely I thought creating a website required highly technical skills or using a plataform that made it easy but took away most of the creative part.
+Naviely I thought creating a website required highly technical skills or using a plataform that made it easy but relied heavily on pre-made formats that took away most of the creativity.
 Markdown makes it really cool to design customized websites without highly technical skills as required using html. 
 
 Bud:
